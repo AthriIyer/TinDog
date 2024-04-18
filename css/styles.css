@@ -60,7 +60,7 @@ h2 {
 /* Title image */
 .title-image {
   width: 60%;
-  transform: rotate(25deg);
+  transform: rotate(15deg);
   position: absolute;
   right: 30%;
 }
